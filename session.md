@@ -1,6 +1,13 @@
 # The Evolution of Social Coding
 
+Emma Jane Hogbin Westby
+
+@emmajanehw
+
 ----
+# A (Probably Incorrect) History of Working with Git
+
+
 # The Patching Workflow
 
 
@@ -77,7 +84,7 @@ Source: https://guides.github.com/introduction/flow/
 ----
 # Resources
 
-- www.gitforteams.com
-- [The Evolution of Social
-  Coding](http://gitforteams.com/resources/evolution-social-coding.html)
+- gitforteams.com
+- article: /resources/evolution-social-coding.html
 - slides: www.github.com/emmajane/social-coding
+- @emmajanehw
